@@ -1,2 +1,4 @@
 # Analisis-USD-HNL
-Contiene dos scripts (R) para procesar y modelar datos históricos del dólar, junto con el dataset utilizado.
+- 📉 `script1.R`: Comparación del GBM frente a datos reales en distintas escalas temporales.
+- 📉 `script2.R`: Modelo predictivo GBM para diferentes escalas temporales.
+- 📂 `dataset.csv`: Datos diarios del dólar (2000-2025, fuente BCH).
